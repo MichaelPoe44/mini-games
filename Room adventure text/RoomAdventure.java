@@ -2,14 +2,7 @@ import java.util.Scanner;
 
 // Name: Michael Poe
 // Description: Room adventure Java
-// improvements: 
-//  room 4
-//  1. made Item class 
-//  2. made exit class
-//  3. remove item function to remove items from room when grabbed
-//  4. custom items
-//  5. added a fight verb fight action
-//  6. a way to lose (fight Malenia)
+// 
 
 
 
